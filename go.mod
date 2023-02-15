@@ -7,7 +7,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.3.3
 	github.com/golang/glog v1.0.0
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/net v0.0.0-20211209124913-491a49abca63
 	golang.org/x/text v0.3.7
